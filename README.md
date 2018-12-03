@@ -15,3 +15,6 @@ Steps to run Back-end code:
 cd Server<br />
 python server.py<br />
 The server will run on localhost:5000<br />
+
+
+![Settings Window](https://raw.github.com/Varun91/BITO_WebApp1/master/images/Table1.png)
