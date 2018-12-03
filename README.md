@@ -18,3 +18,4 @@ The server will run on localhost:5000<br />
 
 
 ![Settings Window](https://raw.github.com/Varun91/BITO_WebApp1/master/images/Table1.png)
+![Settings Window](https://raw.github.com/Varun91/BITO_WebApp1/master/images/Table2.png)
